@@ -1,39 +1,45 @@
-# 🏆 Competitive Programming (CP) Lab
+# 📘 Object Oriented Programming (OOP) Lab
 
-This repository contains my experimental work and problem-solving journey for the **Competitive Programming** course at MIT WPU. It includes structured lab experiments and solutions to various challenges.
+This repository contains all experiments and coding work related to my college academics for the subject **OOP (Object Oriented Programming)**.
 
 ---
 
 ## 🧪 Experiments
-- **Experiments 1–12**: Organized into individual folders, including all the concepts taught throughout the semester.
-- **Certifications**: Included my official HackerRank assessment certificates for Problem Solving.
+- Experiments **1–12** are uploaded in separate folders.
+- A **combined PDF** of all experiments is included (compressed for size limits).
 
 ---
 
-## 💻 HackerRank Profile and Certifications
+## 💻 HackerRank Profile
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-27712?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rajasmd_2008)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/rajasmd_2008)
 
-- ⭐ **5★ in C++**
-- 🎯 **Problem Solving (Basic)** Certified 
-- 🎯 **Problem Solving (Intermediate)** Certified
+- ⭐ 5★ in C++
+- 🧮 450+ points in C++
+- ✅ Basic Certification
+
+---
+
+## 🧩 Solutions
+- HackerRank solutions included.
+- Problem statements provided with each solution.
+
 ---
 
 ## 📂 Repository Structure
 
-```
-├── EXPERIMENT 01/             
-├── EXPERIMENT 02/
-├── EXPERIMENT 03/
-├── EXPERIMENT 04/
-├── EXPERIMENT 05/
-├── EXPERIMENT 06/
-├── EXPERIMENT 07/
-├── EXPERIMENT 08/
-├── EXPERIMENT 09/
-├── EXPERIMENT 10/
-├── EXPERIMENT 12/             
-├── problem_solving_basic_certificate.pdf              #Certificate 1
-├── problem_solving_intermediate_certificate.pdf       #Certificate 2
-└── Screenshot 2026-04-27.png                          #HackerRankProfile
-```
+```text
+├── Experiment 01/
+├── Experiment 02/
+├── Experiment 03/
+├── Experiment 04/
+├── Experiment 05/
+├── Experiment 06/
+├── Experiment 07/
+├── Experiment 08/
+├── Experiment 09/
+├── Experiment 10/
+├── Experiment 11/
+├── Experiment 12/
+├── HACKERRANK/
+└── OOP exp 1-12 Rajas Deshpande.pdf
