@@ -12,7 +12,7 @@ This repository contains all experiments and coding work related to my college a
 
 ## 💻 HackerRank Profile
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/rajasmd_2008)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-27712?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rajasmd_2008)
 
 - ⭐ 5★ in C++
 - 🧮 450+ points in C++
