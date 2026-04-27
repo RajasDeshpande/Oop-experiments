@@ -10,15 +10,13 @@ This repository contains my experimental work and problem-solving journey for th
 
 ---
 
-## 💻 HackerRank Profile
+## 💻 HackerRank Profile and Certifications
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-27712?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rajasmd_2008)
 
 - ⭐ **5★ in C++**
 - 🎯 **Problem Solving (Basic)** Certified 
 - 🎯 **Problem Solving (Intermediate)** Certified
-- 📈 Continuous progress in algorithmic efficiency and optimization.
-
 ---
 
 ## 📂 Repository Structure
@@ -35,7 +33,7 @@ This repository contains my experimental work and problem-solving journey for th
 ├── EXPERIMENT 09/
 ├── EXPERIMENT 10/
 ├── EXPERIMENT 12/             
-├── problem_solving_basic_certificate.pdf #Certificate 1
-├── problem_solving_intermediate_certificate.pdf #Certificate 2
-└── Screenshot 2026-04-27.png  #HackerRankProfile
+├── problem_solving_basic_certificate.pdf              #Certificate 1
+├── problem_solving_intermediate_certificate.pdf       #Certificate 2
+└── Screenshot 2026-04-27.png                          #HackerRankProfile
 ```
